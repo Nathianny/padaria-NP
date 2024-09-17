@@ -16,12 +16,24 @@ body {
     border-radius: 10px;
 }
 
+.navbar-nav {
+    --bs-nav-link-hover-color: #AD6236;
+}
+
 .navbar-expand-lg {
     flex-wrap: nowrap;
     justify-content: flex-start;
     background-color: #2f2d2c;
 }
-
+.nav-link{
+    margin: 20px;
+    font-size: 30px;
+    font-weight: 400;
+    border:solid 1px #4D2A24;
+    color: #2f2d2c;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
 .btn-outline-success {
     --bs-btn-color: block;
     --bs-btn-border-color: #2f2d2c;
