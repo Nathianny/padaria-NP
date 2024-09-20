@@ -11,9 +11,13 @@ Carrossel: Um carrossel de imagens que apresenta os produtos em destaque da pada
 Seção de Cards: Cards que mostram as categorias de produtos da padaria, como bolos, doces, e pães. Cada card contém um botão de ação estilizado.
 
 Tecnologias Utilizadas
+
 HTML5: Estruturação do conteúdo da página.
+
 CSS3: Estilização da página, incluindo layout flexível e responsivo.
+
 Bootstrap: Framework CSS para estilização de componentes e criação de uma interface responsiva.
+
 Fontes Google: Utilização da fonte "Roboto" para garantir uma tipografia moderna e agradável.
 
 Como Executar o Projeto:
