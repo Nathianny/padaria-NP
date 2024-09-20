@@ -5,7 +5,9 @@ Estrutura do Projeto
 O projeto consiste nas seguintes seções:
 
 Navbar: Barra de navegação que contém links para diferentes seções da página, como "Sobre Nós", "Produtos" e "Contato". A barra é estilizada para ter um fundo em duas cores diferentes e elementos flexíveis.
+
 Carrossel: Um carrossel de imagens que apresenta os produtos em destaque da padaria, com uma transição suave e uma sobreposição de gradiente nas imagens.
+
 Seção de Cards: Cards que mostram as categorias de produtos da padaria, como bolos, doces, e pães. Cada card contém um botão de ação estilizado.
 
 Tecnologias Utilizadas
